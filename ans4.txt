@@ -1,0 +1,9 @@
+0000
+04 2000 
+00 2000 
+E0 2035 
+30 2008 
+D8 2035 
+28 2000 
+30 2032 
+Error : BUFFER symbol not declared 
